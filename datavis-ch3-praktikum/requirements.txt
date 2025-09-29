@@ -1,0 +1,7 @@
+notebook
+jupyterlab
+pandas
+matplotlib
+seaborn
+bokeh
+plotly
